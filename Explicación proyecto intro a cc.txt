@@ -1,0 +1,5 @@
+En este proyecto,decidi crear un juego similar a aquellos viejos juegos de atari de ir matando a un alien con una nave espacial.
+La fisica trabajada fue principalmente la de diferentes velocidades para cada objeto en pantalla, los cambios de posicion
+de los mismo al actualizarse los estados del juego, las colisiones entre objetos y los diferentes tipos de movimientos que
+se tuvieron que manejar. Utilice la libreria de creacion de juegos de pygame de python y librerias como las de time para
+permitir aleatoridad y cambios en los estados con trancisiones adecuadas.
